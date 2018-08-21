@@ -1,0 +1,9 @@
+c:\users\singlepc\documents\visual studio 2015\Projects\DateTrans\DateTrans\bin\Debug\DateTrans.exe.config
+c:\users\singlepc\documents\visual studio 2015\Projects\DateTrans\DateTrans\bin\Debug\DateTrans.exe
+c:\users\singlepc\documents\visual studio 2015\Projects\DateTrans\DateTrans\bin\Debug\DateTrans.pdb
+c:\users\singlepc\documents\visual studio 2015\Projects\DateTrans\DateTrans\obj\Debug\DateTrans.csprojResolveAssemblyReference.cache
+c:\users\singlepc\documents\visual studio 2015\Projects\DateTrans\DateTrans\obj\Debug\DateTrans.Form1.resources
+c:\users\singlepc\documents\visual studio 2015\Projects\DateTrans\DateTrans\obj\Debug\DateTrans.Properties.Resources.resources
+c:\users\singlepc\documents\visual studio 2015\Projects\DateTrans\DateTrans\obj\Debug\DateTrans.csproj.GenerateResource.Cache
+c:\users\singlepc\documents\visual studio 2015\Projects\DateTrans\DateTrans\obj\Debug\DateTrans.exe
+c:\users\singlepc\documents\visual studio 2015\Projects\DateTrans\DateTrans\obj\Debug\DateTrans.pdb
